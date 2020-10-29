@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson003_HT_1", "Lesson003_HT_1\Lesson003_HT_1.csproj", "{1302C073-F0B1-49F2-A2BA-96E046B676B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson003_HT_2", "Lesson003_HT_2\Lesson003_HT_2.csproj", "{76578C32-7B29-4C75-8421-F8850831630D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson003_HT_3", "Lesson003_HT_3\Lesson003_HT_3.csproj", "{15FEF340-C3F8-42FD-858B-9424698039CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1302C073-F0B1-49F2-A2BA-96E046B676B1}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{1302C073-F0B1-49F2-A2BA-96E046B676B1}.Debug|anycpu.Build.0 = Debug|anycpu
+		{1302C073-F0B1-49F2-A2BA-96E046B676B1}.Release|anycpu.ActiveCfg = Release|anycpu
+		{1302C073-F0B1-49F2-A2BA-96E046B676B1}.Release|anycpu.Build.0 = Release|anycpu
+		{76578C32-7B29-4C75-8421-F8850831630D}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{76578C32-7B29-4C75-8421-F8850831630D}.Debug|anycpu.Build.0 = Debug|anycpu
+		{76578C32-7B29-4C75-8421-F8850831630D}.Release|anycpu.ActiveCfg = Release|anycpu
+		{76578C32-7B29-4C75-8421-F8850831630D}.Release|anycpu.Build.0 = Release|anycpu
+		{15FEF340-C3F8-42FD-858B-9424698039CD}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{15FEF340-C3F8-42FD-858B-9424698039CD}.Debug|anycpu.Build.0 = Debug|anycpu
+		{15FEF340-C3F8-42FD-858B-9424698039CD}.Release|anycpu.ActiveCfg = Release|anycpu
+		{15FEF340-C3F8-42FD-858B-9424698039CD}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
